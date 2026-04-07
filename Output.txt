@@ -1,0 +1,6 @@
+Enter URL: http://fake-login@bank.com
+Reason: Contains '@' symbol
+⚠️ Warning: Suspicious URL detected!
+
+Enter URL: https://google.com
+✅ URL seems safe.
